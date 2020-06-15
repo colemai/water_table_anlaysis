@@ -36,3 +36,5 @@ Compare model performance
 
 Brainstorm on further improvements
 
+Look back over everything, clean and thoroughly document every decision
+
